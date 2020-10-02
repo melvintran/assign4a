@@ -1,0 +1,26 @@
+.cars{
+    background-image: ("bg-14.jpg");
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    width: 90px;
+    height: 90px;
+}
+
+.button{
+    border: dashed;
+}
+
+.sidenav{
+    width: 250px;
+    height: 200px;
+    border: double;
+    border-radius: 5px;
+    float: right;
+   
+
+}
+
+p::first-letter {
+    color: orange;
+    font-size: 24pt;
+    }
